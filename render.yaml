@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: rr
+    env: docker
+    plan: free
